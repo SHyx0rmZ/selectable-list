@@ -1,0 +1,14 @@
+{
+    "version": "1.0.0",
+    "summary": "List which maintains a selected item.",
+    "repository": "https://github.com/SHyx0rmZ/selectable-list.git",
+    "license": "MIT",
+    "source-directories": [
+        "."
+    ],
+    "exposed-modules": [ "SelectableList" ],
+    "dependencies": {
+        "elm-lang/core": "5.1.1 <= v < 6.0.0"
+    },
+    "elm-version": "0.18.0 <= v < 0.19.0"
+}
